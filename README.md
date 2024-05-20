@@ -1,2 +1,4 @@
-# Js-Boilerplate-2.0
-Boilerplate 3.0
+# TheMealDB Recipe PWA
+
+Recipe app made as a pwa
+Page:
